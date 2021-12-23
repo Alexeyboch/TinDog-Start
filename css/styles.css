@@ -19,7 +19,7 @@ h1 {
 }
 
 .title-image {
-  transform: rotate(30deg); /* Equal to rotateZ(45deg) */
+  transform: rotate(25deg);
   background-color: #ff4c68;
   width: 60%;
 
@@ -48,4 +48,25 @@ h1 {
 
 .download-button {
   margin: 5% 3% 5% 0;
+}
+
+#features {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.h3-features {
+  padding-top: 20px;
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+.icon-features {
+  color: #ef8172;
+  font-size: 3rem;
+}
+
+.icon-features:hover {
+  color: #ff4c68;
 }
