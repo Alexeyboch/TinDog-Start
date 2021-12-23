@@ -21,7 +21,8 @@ h1 {
 .title-image {
   transform: rotate(25deg);
   background-color: #ff4c68;
-  width: 60%;
+  width: 40%;
+  padding: auto;
 
 }
 
@@ -52,12 +53,11 @@ h1 {
 
 #features {
   text-align: center;
-  padding-top: 50px;
+  padding: 7% 15%;
 }
 
 .h3-features {
-  padding-top: 20px;
-  font-family: "Montserrat";
+    font-family: "Montserrat";
   font-size: 1.5rem;
   font-weight: 900;
 }
@@ -65,6 +65,7 @@ h1 {
 .icon-features {
   color: #ef8172;
   font-size: 3rem;
+  margin-bottom: 1rem;
 }
 
 .icon-features:hover {
