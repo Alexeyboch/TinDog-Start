@@ -108,3 +108,8 @@ h2 {
 .carousel-item {
   padding: 7% 15%;
 }
+
+#pricing {
+  padding:7% 10%;
+  text-align: center;
+}
